@@ -6,3 +6,32 @@
 
 // App components
 @forward "../_components/";
+
+// Header tweaks
+.govuk-header__link--homepage {
+    font-weight: 700;
+}
+.govuk-header__logotype {
+    display: inline-block;
+    position: relative;
+    top: 0;
+    margin-right: 5px;
+    fill: currentcolor;
+    vertical-align: top;
+}
+
+.app-header__logotype--large {
+    margin: -3px 0 -8px;
+}
+
+.x-govuk-masthead {
+    background-color: #00625E;
+}
+
+.govuk-header__container {
+    border-bottom: 10px solid #00625E;
+}
+
+.govuk-footer {
+    border-top: 2px solid #00625E;
+}
