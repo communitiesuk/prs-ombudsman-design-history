@@ -74,8 +74,6 @@ While neither tool is currently in active development, both offer valuable insig
 
 ## My housing issue gateway
 
-Review of prior user research and design approach for the TDS tenant support tool. The service is no longer in active development as far as is known.
-
 ### Design approach
 
 The tool was built to empower users without doing the work for them. It helped them understand their options, generate templated letters, and navigate a fragmented support landscape with minimal friction.
@@ -100,8 +98,6 @@ Despite an abundance of content on topics such as mould, redress schemes, and lo
 
 ## Check how to get repairs done in your rented home
 
-Review of the MOJ Housing Disrepair Tool ahead of its planned decommissioning. Insights gathered to inform potential reuse or redevelopment.
-
 ### Summary
 
 The Ministry of Justice (MOJ) Housing Disrepair Tool was developed approximately five years ago to raise awareness and support pre-court resolution for tenants experiencing housing issues. Originally created by a small team within MOJ to reduce court-related queries, the tool has since changed hands multiple times, and documentation is limited.
@@ -109,7 +105,7 @@ The Ministry of Justice (MOJ) Housing Disrepair Tool was developed approximately
 ### Key points
 
 - Current Usage: Very low, with analytics showing approximately 10 users per day. This may suggest latent demand but highlights significant discoverability issues.
-- Decommissioning: MOJ has decided to retire the tool by the end of this year or early next year. It is not considered within MOJ's remit, nor is there budget available for its maintenance.
+- Decommissioning: MOJ has decided to retire the tool by the end of this year or early next year. It is not considered within MOJ's remit, nor is there budget available for its maintenance. There is potential to reuse or redevelopment this service for PRS. 
 - Tool Status: Though underused and undocumented, MOJ acknowledges the tool’s potential usefulness and welcomes others incorporating or building upon it.
 - Marketing & Visibility: It is unclear how (or if) the tool was marketed. There appears to have been little or no SEO or promotional activity in recent years. Further investigation is needed to confirm the platforms it was hosted on and any outreach efforts undertaken.
 - Opportunity: The tool may still hold value for users and warrants usability testing to assess its viability as part of a broader housing support offer.
