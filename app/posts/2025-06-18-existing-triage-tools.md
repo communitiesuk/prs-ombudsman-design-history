@@ -1,7 +1,7 @@
 ---
-title: Existing triage tools
+title: Researching existing triage tools
 description: As part of our exploration into existing tools that support tenants facing housing issues, we reviewed two existing services. The TDS tenant support tool and the MOJ housing disrepair tool.
-date: 2025-07-10
+date: 2025-06-18
 screenshots:
   items:
     - text: TDS - My housing issue gateway - homepage
